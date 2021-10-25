@@ -1,5 +1,5 @@
 ![CI/CD](https://github.com/ShlemenKirill/ReactAppTunedTemplate/workflows/CI/CD/badge.svg)
-[![Codecov](https://img.shields.io/codecov/c/github/dyarleniber/react-workflow-gh-actions)](https://codecov.io/gh/ShlemenKirill/ReactAppTunedTemplate)
+[![Codecov](https://img.shields.io/codecov/c/github/ShlemenKirill/ReactAppTunedTemplate)](https://app.codecov.io/gh/ShlemenKirill/ReactAppTunedTemplate)
 ![License](https://img.shields.io/github/license/ShlemenKirill/ReactAppTunedTemplate)
 
 # Getting Started with Create React App
