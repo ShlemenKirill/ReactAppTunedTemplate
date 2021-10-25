@@ -1,6 +1,6 @@
 ![CI/CD](https://github.com/ShlemenKirill/ReactAppTunedTemplate/workflows/CI/CD/badge.svg)
 [![Codecov](https://img.shields.io/codecov/c/github/ShlemenKirill/ReactAppTunedTemplate)](https://app.codecov.io/gh/ShlemenKirill/ReactAppTunedTemplate)
-![License](https://img.shields.io/github/license/ShlemenKirill/ReactAppTunedTemplate)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 # Getting Started with Create React App
 
