@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactAppTunedTemplate/static/css/main.a617e044.chunk.css",
+    "main.js": "/ReactAppTunedTemplate/static/js/main.dac8609a.chunk.js",
+    "main.js.map": "/ReactAppTunedTemplate/static/js/main.dac8609a.chunk.js.map",
+    "runtime-main.js": "/ReactAppTunedTemplate/static/js/runtime-main.4c448e44.js",
+    "runtime-main.js.map": "/ReactAppTunedTemplate/static/js/runtime-main.4c448e44.js.map",
+    "static/js/2.a3d53ea3.chunk.js": "/ReactAppTunedTemplate/static/js/2.a3d53ea3.chunk.js",
+    "static/js/2.a3d53ea3.chunk.js.map": "/ReactAppTunedTemplate/static/js/2.a3d53ea3.chunk.js.map",
+    "static/js/3.a667467b.chunk.js": "/ReactAppTunedTemplate/static/js/3.a667467b.chunk.js",
+    "static/js/3.a667467b.chunk.js.map": "/ReactAppTunedTemplate/static/js/3.a667467b.chunk.js.map",
+    "index.html": "/ReactAppTunedTemplate/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ReactAppTunedTemplate/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a3d53ea3.chunk.js.LICENSE.txt": "/ReactAppTunedTemplate/static/js/2.a3d53ea3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactAppTunedTemplate/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c448e44.js",
+    "static/js/2.a3d53ea3.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dac8609a.chunk.js"
+  ]
+}
