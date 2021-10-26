@@ -1,6 +1,39 @@
+# React App Tuned Template
 ![CI/CD](https://github.com/ShlemenKirill/ReactAppTunedTemplate/workflows/CI/CD/badge.svg)
 [![Codecov](https://img.shields.io/codecov/c/github/ShlemenKirill/ReactAppTunedTemplate)](https://app.codecov.io/gh/ShlemenKirill/ReactAppTunedTemplate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
+## Project structure
+
+```
+├── README.md
+├── node_modules
+├── .eslintrc
+├── package.json
+├── .gitignore
+├── .prettierrc
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   └── manifest.json
+└── src
+    └── components
+    │   ├── actions 
+    │   ├── constants
+    │   └── reducers
+    └── constants
+    └── pages
+    └── store
+    └── translations
+    ├── App.css
+    ├── App.js
+    ├── App.test.js
+    ├── index.css
+    ├── index.js
+    ├── logo.svg
+    └── serviceWorker.js
+    └── setupTests.js
+```
 
 # Getting Started with Create React App
 
