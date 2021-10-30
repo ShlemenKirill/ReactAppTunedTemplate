@@ -4,7 +4,7 @@
 	"homepage": "https://ShlemenKirill.github.io/ReactAppTunedTemplate",
 	"private": true,
 	"dependencies": {
-		"@babel/core": "^7.13.0",
+		"@babel/core": "^7.15.8",
 		"@testing-library/jest-dom": "^5.14.1",
 		"@testing-library/react": "^11.2.7",
 		"@testing-library/user-event": "^12.8.3",
