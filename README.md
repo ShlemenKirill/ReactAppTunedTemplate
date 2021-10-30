@@ -36,6 +36,77 @@
     └── setupTests.js
 ```
 
+### ES lint configuration
+
+``` javascript
+{
+	"env": {
+		"browser": true,
+		"jest/globals": true
+	},
+	"extends": ["airbnb", "prettier"],
+	"plugins": ["prettier", "jest", "react-hooks"],
+	"parser": "babel-eslint",
+	"rules": {
+		"prettier/prettier": "error",
+		"import/no-extraneous-dependencies": [
+			"error",
+			{
+				"devDependencies": true
+			}
+		],
+		"import/no-named-as-default": 0,
+		"react-hooks/rules-of-hooks": "error",
+		"react-hooks/exhaustive-deps": "warn",
+		"react/jsx-indent": "off",
+		"react/jsx-indent-props": "off",
+		"react/jsx-one-expression-per-line": "off",
+		"react/jsx-wrap-multilines": "off",
+		"capitalized-comments": [
+			"error",
+			"always",
+			{
+				"ignoreConsecutiveComments": true
+			}
+		],
+		"react/jsx-props-no-spreading": "off",
+		"react/jsx-curly-newline": "off",
+		"jsx-a11y/control-has-associated-label": "off",
+		"react/prop-types": 0,
+		"react/forbid-prop-types": 0
+	},
+	"settings": {
+		"import/resolver": {
+			"node": {
+				"moduleDirectory": ["node_modules", "src"]
+			}
+		},
+		"import/ignore": [".css$"]
+	}
+}
+
+```
+### Prettier config
+``` javascript
+{
+  "trailingComma": "es5",
+  "tabWidth": 4,
+  "useTabs": true,
+  "semi": true,
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": "*.css",
+      "options": {
+        "tabWidth": 2,
+        "useTabs": false
+      }
+    }
+  ]
+}
+
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
