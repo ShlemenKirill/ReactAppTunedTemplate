@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![CodeQL](https://github.com/ShlemenKirill/ReactAppTunedTemplate/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ShlemenKirill/ReactAppTunedTemplate/actions/workflows/codeql-analysis.yml)
 
+This is a solution template for creating a React App with tuned ES lint and Prettier. Create a new project based on this template by clicking the above **Use this template** button.
+
 ## Project structure
 
 ```
